@@ -1,4 +1,4 @@
-# Hrishikesh Kulkarni - 
+# Hrishikesh Kulkarni 
 ### Senior Data Engineer & ML Backend Specialist
 
 ## About Me
@@ -25,7 +25,7 @@ To secure a Lead/Staff Data Engineer role at a top MNC product company, leveragi
 ## Key Projects
 
 ### 1. Scalable Data Lake for Real-Time Analytics
-- **Role:** Lead Data Engineer
+- **Role:** Senior Data Engineer
 - **Tech Stack:** AWS S3, Spark, Kafka, Airflow
 - **Impact:** Reduced data processing time by 60%, enabled real-time analytics for 10+ business units.
 
