@@ -1,7 +1,5 @@
-# hrishikesh.github.io
-
 # Hrishikesh Kulkarni - 
-## Senior Data Engineer & ML Backend Specialist
+### Senior Data Engineer & ML Backend Specialist
 
 ## About Me
 Experienced Data Engineer & ML Backend developer with 7+ years in designing scalable data platforms, building ML pipelines, and leading impactful projects in MNC product environments.
