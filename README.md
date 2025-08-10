@@ -1,5 +1,5 @@
 # Hrishikesh Kulkarni 
-### Senior Data Engineer & ML Backend Specialist
+### Senior Data & AI Engineer
 
 ## About Me
 Experienced Data Engineer & ML Backend developer with 7+ years in designing scalable data platforms, building ML pipelines, and leading impactful projects in MNC product environments.
