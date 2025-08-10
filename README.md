@@ -13,7 +13,7 @@ To secure a Lead/Staff Data Engineer role at a top MNC product company, leveragi
 
 ## Technical Skills
 
-- **Programming:** Python, SQL, Java/Scala
+- **Programming:** Python, SQL, Terraform
 - **Big Data:** Spark, Kubeflow, Airflow, Hadoop, Flink
 - **Cloud Platforms:** AWS (Redshift, EMR), Azure, Microsoft Fabric
 - **ML & MLOps:** TensorFlow, PyTorch, MLflow, Kubeflow, Airflow, Docker, Kubernetes
@@ -72,7 +72,7 @@ To secure a Lead/Staff Data Engineer role at a top MNC product company, leveragi
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/hrishikesh-r-kulkarni/)(#)
 - **GitHub:** [github.com/hrishikeshk9](#)
 
 ---
