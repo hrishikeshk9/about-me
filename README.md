@@ -49,21 +49,6 @@ To secure a Lead/Staff Data Engineer role at a top MNC product company, leveragi
 
 ---
 
-## Publications & Blogs
-
-- [How to Build a Reliable Data Lake in the Cloud](#)
-- [Best Practices for ML Model Deployment at Scale](#)
-- [Case Study: Automating Data Quality Checks](#)
-
----
-
-## Open Source & Community
-
-- Contributor to [Apache Airflow](#) and [TensorFlow Extended](#).
-- Speaker at [Data Engineering Summit 2025](#).
-
----
-
 ## Education
 
 - B.E. in Computer Science, Pune University, India
