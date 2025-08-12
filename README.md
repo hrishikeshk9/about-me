@@ -62,8 +62,8 @@ To secure a Lead/Staff Data Engineer role at a top MNC product company, leveragi
 
 ## Contact
 
-- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/hrishikesh-r-kulkarni/)(#)
-- **GitHub:** [github.com/hrishikeshk9](#)
+- [Linkedin](https://www.linkedin.com/in/hrishikesh-r-kulkarni/)
+- [Github](github.com/hrishikeshk9)
 
 ---
 
