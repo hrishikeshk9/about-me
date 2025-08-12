@@ -39,6 +39,11 @@ To secure a Lead/Staff Data Engineer role at a top MNC product company, leveragi
 - **Tech Stack:** Python, Airflow, Great Expectations
 - **Impact:** Improved data reliability, decreased data errors by 80%.
 
+### 4. Scalable Batch Data Transformations for NLP based Deep Learning recommendation engine
+- **Role:** Data Engineer
+- **Tech Stack:** AWS S3, Siebel CRM, Airflow, DBT, Power BI
+- **Impact:** Reduced data processing time by 40%, enabled batch-time analytics for multi-model use case.
+
 ---
 
 ## Leadership & Mentoring
@@ -57,7 +62,7 @@ To secure a Lead/Staff Data Engineer role at a top MNC product company, leveragi
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/hrishikesh-r-kulkarni/)(#)
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/hrishikesh-r-kulkarni/)(#)
 - **GitHub:** [github.com/hrishikeshk9](#)
 
 ---
